@@ -1,0 +1,22 @@
+{
+  "name": "energy-people",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanCalavera/energy-people.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanCalavera/energy-people/issues"
+  },
+  "homepage": "https://github.com/JuanCalavera/energy-people#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
+}
