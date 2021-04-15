@@ -1,0 +1,2 @@
+! Infelizmente não consegui testar com o banco :(
+Obrigado pela chance de chegar até essa etapa, gostaria muito de trabalhar com vocês para que eu pudesse evoluir com a sua equipe e poder gerar valor para a empresa
